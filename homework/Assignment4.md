@@ -1,6 +1,6 @@
 # Assignment1
 
-截至时间：2021.11.5 23:00
+截至时间：
 
 问题1: Proof that encryption of SM4 is reversible.
 
