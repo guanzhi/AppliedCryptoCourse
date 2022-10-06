@@ -65,7 +65,7 @@
 
 分组密码的概念、典型构造和工作模式。
 
-[课后作业](./homework/Assignment4.md "作业4")（[附件](./homework/Assignment4_eaxmple.zip "作业四附件"))：
+[课后作业](./homework/Assignment4.md "作业4")（[附件](./homework/Assignment4_example.zip "作业四附件"))：
 
 - 分组密码算法的实现
 - 分组密码加密模式的安全实验
